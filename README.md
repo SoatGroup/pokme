@@ -1,15 +1,33 @@
 # pokme
 
+## Stack Technique
 
-web api => swagger
-archi hexa
-xamarin forms / flutter
+- Bonnes pratiques .NET
+	- Tools
+	- Lib
+	- Conventions
+- Back
+	- ASP.NET Core / WebAPI
+	- Swagger
+	- Cognitive services
+- Architecture
+	- Hexagonale
+	- Serverless / cloud
+- Méthodo
+	- Agile
+	- Craft
+	- DDD
+	- TDD
+- Front :
+	- React
+	- Flutter
+	- Xamarin.Forms
 
-
-Domain :
-
+## Domain
 - Questions
-- poll
+- Sondage
 - ROTI
+
+
 
 
